@@ -11,6 +11,9 @@ Official repository for the paper "[EditThinker: Unlocking Iterative Reasoning f
 ## 💥 News
 - **[2025.12.08]** The paper **EditThinker** is released on arXiv. 🚀
 
+## 📋 TODO
+- [ ] Open source code, model and dataset (in one week)
+
 
 ## 💭🎨 Think-while-Edit
 
