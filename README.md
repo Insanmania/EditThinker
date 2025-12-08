@@ -81,11 +81,14 @@ To train EditThinker, we constructed ThinkEdit-140k. We employ reinforcement lea
 Please cite us if you find this project helpful:
 
 ```bibtex
-@article{li2026editthinker,
-  title={EditThinker: Unlocking Iterative Reasoning for Any Image Editor},
-  author={Li, Hongyu and Zhang, Manyuan and Zheng, Dian and Guo, Ziyu and Jia, Yimeng and Feng, Kaituo and Yu, Hao and Liu, Yexin and Feng, Yan and Pei, Peng and Cai, Xunliang and Huang, Linjiang and Li, Hongsheng and Liu, Si},
-  year={2025}
+@misc{li2025editthinkerunlockingiterativereasoning,
+      title={EditThinker: Unlocking Iterative Reasoning for Any Image Editor}, 
+      author={Hongyu Li and Manyuan Zhang and Dian Zheng and Ziyu Guo and Yimeng Jia and Kaituo Feng and Hao Yu and Yexin Liu and Yan Feng and Peng Pei and Xunliang Cai and Linjiang Huang and Hongsheng Li and Si Liu},
+      year={2025},
+      eprint={2512.05965},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.05965}, 
 }
-
 ```
 
