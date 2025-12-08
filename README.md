@@ -4,9 +4,9 @@
   EditThinker: Unlocking Iterative Reasoning for Any Image Editor
 </h1>
 
-Official repository for the paper "[EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://arxiv.org/abs/)".
+Official repository for the paper "[EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://arxiv.org/abs/2512.05965)".
 
-[[🌍 Project Page](https://appletea233.github.io/think-while-edit/)] [[📖 Paper](https://arxiv.org/abs/)] [[🤗 ThinkEdit-140K Dataset](https://github.com/appletea233/EditThinker)] [[🤗 EditThinker-8B](https://github.com/appletea233/EditThinker)]
+[[🌍 Project Page](https://appletea233.github.io/think-while-edit/)] [[📖 Paper](https://arxiv.org/abs/2512.05965)] [[🤗 ThinkEdit-140K Dataset](https://github.com/appletea233/EditThinker)] [[🤗 EditThinker-8B](https://github.com/appletea233/EditThinker)]
 
 ## 💥 News
 - **[2025.12.08]** The paper **EditThinker** is released on arXiv. 🚀
