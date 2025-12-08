@@ -4,7 +4,7 @@
   EditThinker: Unlocking Iterative Reasoning for Any Image Editor
 </h1>
 
-Official repository for the paper "[Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](https://arxiv.org/abs/)".
+Official repository for the paper "[EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://arxiv.org/abs/)".
 
 [[🌍 Project Page](https://appletea233.github.io/think-while-edit/)] [[📖 Paper](https://arxiv.org/abs/)] [[🤗 ThinkEdit-140K Dataset](https://github.com/appletea233/EditThinker)] [[🤗 EditThinker-8B](https://github.com/appletea233/EditThinker)]
 
